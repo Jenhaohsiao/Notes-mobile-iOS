@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16C67" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="NotesTable" representedClassName="NotesTable" syncable="YES" codeGenerationType="class">
+        <attribute name="notesCreateDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notesDetail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notesImage" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="notesImageLatitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notesImageLongitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notesTitle" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="NotesTable" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>

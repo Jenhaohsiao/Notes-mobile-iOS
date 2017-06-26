@@ -17,4 +17,3 @@ Date: December,2016
 ![screen shot 2017-06-23 at 8 37 01 pm](https://user-images.githubusercontent.com/12676014/27504221-da1aac2e-5853-11e7-893b-c9b0108838bf.png)
 ![screen shot 2017-06-23 at 8 37 24 pm](https://user-images.githubusercontent.com/12676014/27504222-da1b3450-5853-11e7-99aa-60d5c5f5d62f.png)
 
-![screen shot 2017-06-26 at 10 12 19 am](https://user-images.githubusercontent.com/12676014/27543347-f99e7bd8-5a57-11e7-941e-1def715b1f38.png)
